@@ -66,4 +66,7 @@ public class Livro {
         return "Livro [id=" + id + ", título=" + titulo + ", autor=" + autor.getNome() +
                ", disponível=" + (disponivel ? "Sim" : "Não") + "]";
     }
+
+    
 }
+
